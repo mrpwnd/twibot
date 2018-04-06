@@ -1,0 +1,5 @@
+html==1.16
+twython==3.4.0
+markovify==0.6.0
+HTMLParser==0.0.2
+python-twitter==3.2.1
